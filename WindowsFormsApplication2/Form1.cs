@@ -150,6 +150,7 @@ namespace WindowsFormsApplication2
             Form2 frm = new Form2();
             frm.Show();
             this.Hide();
+            //test commit
         }
     }
 }
